@@ -1,5 +1,5 @@
 # Asteroids
 
 W głównym katalogu projektu:
-  - zainstalowanie zależności: ### `npm install`
-  - uruchomienie projektu: ### `npm start`
+  - zainstalowanie zależności: `npm install`
+  - uruchomienie projektu: `npm start`
