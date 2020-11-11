@@ -1,5 +1,5 @@
-# League of Shaders
+# Asteroids
 
-Uruchamiamy projekt komendą:
-
-### `npm start`
+W głównym katalogu projektu:
+  - zainstalowanie zależności: ### `npm install`
+  - uruchomienie projektu: ### `npm start`
