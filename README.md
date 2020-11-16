@@ -1,4 +1,4 @@
-# Asteroids
+# Websteroids
 
 W głównym katalogu projektu:
   - zainstalowanie zależności: `npm install`
