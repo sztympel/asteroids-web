@@ -1,11 +1,16 @@
 import './App.css';
+import React from 'react';
+import { Canvas } from 'react-three-fiber';
+import { Ground } from './components/Ground';
+import { Stars } from '@react-three/drei';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <p1>League of Shaders</p1>
-    </div>
+    <Canvas style={{ background: 'black' }}>
+      <Ground />
+      <Stars />
+    </Canvas>
   );
-}
+};
 
 export default App;
